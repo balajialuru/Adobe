@@ -60,7 +60,7 @@ public class ActionButtonsImpl extends AbstractEmptyTextComponent implements Act
     }
 // first checkin
 //second change
-//third change
+//third
   @Override
     public boolean isReady() {
         Config config = request.adaptTo(Config.class);
