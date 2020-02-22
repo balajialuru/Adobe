@@ -29,6 +29,7 @@ import org.apache.sling.models.annotations.Required;
 import org.apache.sling.models.annotations.injectorspecific.Self;
 import org.apache.sling.models.annotations.injectorspecific.ValueMapValue;
 
+//small fix
 @Model(
         adaptables = {SlingHttpServletRequest.class},
         adapters = {ActionButtons.class},
